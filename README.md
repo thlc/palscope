@@ -24,16 +24,20 @@ Pictures
 --------
 
 Schematic:
+
 ![The Schematic](https://github.com/thlc/palscope/blob/master/misc/schematic.png?raw=true)
 
 
 3-D rendering of the board:
+
 ![3-D Rendering](https://github.com/thlc/palscope/blob/master/misc/board.png?raw=true)
 
 An early working version of the PCB:
+
 ![PCB](https://github.com/thlc/palscope/blob/master/misc/builtboard.jpg?raw=true)
 
 My Apple //e running Ultima IV:
+
 ![Apple 2 running Ultima IV](https://github.com/thlc/palscope/blob/master/misc/ultima4.jpg?raw=true)
 
 
