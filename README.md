@@ -5,7 +5,7 @@ About
 -----
 
 PalScope is a KiCad version of the very nice schematic made by
-![W2AEW](https://www.qsl.net/w2aew/), which converts a PAL signal into 
+[W2AEW](https://www.qsl.net/w2aew/), which converts a PAL signal into 
 a 3-channel X-Y-Z raster that oscilloscopes can use to display a raster image.
 
 Components
@@ -44,5 +44,5 @@ My Apple //e running Ultima IV:
 Acknolwedgements
 ----------------
 
-Thanks to Alan / W2AEW for publishing this design!
+Thanks to Alan Wolke / W2AEW for publishing this design!
 Make sure to check out his YouTube channel at https://www.youtube.com/@w2aew
