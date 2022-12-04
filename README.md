@@ -5,7 +5,7 @@ About
 -----
 
 PalScope is a KiCad version of the very nice schematic made by
-[https://www.qsl.net/w2aew/|W2AEW], which converts a PAL signal into 
+![W2AEW](https://www.qsl.net/w2aew/), which converts a PAL signal into 
 a 3-channel X-Y-Z raster that oscilloscopes can use to display a raster image.
 
 Components
@@ -24,17 +24,17 @@ Pictures
 --------
 
 Schematic:
-![The Schematic](https://github.com/thlc/palscope/blob/master/schematic.png?raw=true)
+![The Schematic](https://github.com/thlc/palscope/blob/master/misc/schematic.png?raw=true)
 
 
 3-D rendering of the board:
-![3-D Rendering](https://github.com/thlc/palscope/blob/master/board.png?raw=true)
+![3-D Rendering](https://github.com/thlc/palscope/blob/master/misc/board.png?raw=true)
 
 An early working version of the PCB:
-![PCB](https://github.com/thlc/palscope/blob/master/builtboard.jpg?raw=true)
+![PCB](https://github.com/thlc/palscope/blob/master/misc/builtboard.jpg?raw=true)
 
 My Apple //e running Ultima IV:
-![Apple 2 running Ultima IV](https://github.com/thlc/palscope/blob/master/ultima4.jpg?raw=true)
+![Apple 2 running Ultima IV](https://github.com/thlc/palscope/blob/master/misc/ultima4.jpg?raw=true)
 
 
 Acknolwedgements
